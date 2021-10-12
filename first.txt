@@ -1,4 +1,1 @@
-Them moi noi dung tu parrot
-them noi dung tu window
-Them moi noi dung tu parrot [lan 2]
-==Them moi noi dung tu parrot - branch parrot2
+Them moi noi dung tu parrot - branch parrot3
